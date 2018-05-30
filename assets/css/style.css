@@ -1,0 +1,30 @@
+.primera {
+  background-color:yellow;
+  border: 5px solid white;
+}
+
+.segunda {
+  background: greenyellow;
+  border: 5px solid white;
+}
+
+.tercera {
+  background: aquamarine;
+  border: 5px solid white;
+}
+
+.cuarta {
+  background: turquoise;
+  border: 5px solid white;
+}
+
+.quinta {
+  background: violet;
+  border: 5px solid white;
+}
+
+.sexta {
+  background: magenta;
+  border: 5px solid white;
+}
+
